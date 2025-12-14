@@ -1,0 +1,4 @@
+* Warning! Footprint mismatch for the part #C8598: D_SOD-123 != SOD-123
+* Warning! Identical parts C300,C421,C422,C423,C424,C425,C426 and C17 (10u_C0603) have different partnumbers: C96446 and C19702
+* Warning! Identical parts C304,C305,C306,C307,C308,C309,C310,C311,C312,C313 and C821,C822,C823,C824,C825,C826,C827,C828,C829,C830 (10u_C0805) have different partnumbers: C15850 and C440198
+* Warning! Identical parts C601,C602,C605,C608,C612,C613,C614,C615,C617,C618,C753,C754,C759 and C470,C411,C413,C420 (100n_C0402) have different partnumbers: C1525 and C307331
