@@ -1910,7 +1910,7 @@
 	(footprint "hellen-one-motor-driver-0.1:motor-driver"
 		(layer "F.Cu")
 		(uuid "00651e4a-5335-4c97-8fb3-03f4af8ea0bb")
-		(at 157.6 17.6)
+		(at 155.9 20)
 		(property "Reference" "M1"
 			(at 2.45 -9.8 0)
 			(unlocked yes)
@@ -2459,7 +2459,7 @@
 			)
 			(polygon
 				(pts
-					(xy 171.3 17.5) (xy 157.7 17.5) (xy 157.7 7.7) (xy 171.3 7.7)
+					(xy 169.6 19.9) (xy 156 19.9) (xy 156 10.1) (xy 169.6 10.1)
 				)
 			)
 		)
