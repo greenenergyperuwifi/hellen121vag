@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*
-G04 #@! TF.CreationDate,2025-12-13T22:08:00-05:00*
+G04 #@! TF.CreationDate,2025-12-13T22:12:37-05:00*
 G04 #@! TF.ProjectId,hellen121vag,68656c6c-656e-4313-9231-7661672e6b69,d*
 G04 #@! TF.SameCoordinates,PX2b953a0PY6943058*
 G04 #@! TF.FileFunction,Soldermask,Bot*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.8) date 2025-12-13 22:08:00*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2025-12-13 22:12:37*
 %MOMM*%
 %LPD*%
 G01*
@@ -4686,11 +4686,6 @@ X24900005Y73125001D03*
 X23725001Y72375003D03*
 X23800004Y68825002D03*
 G04 #@! TD*
-D11*
-G04 #@! TO.C,U4*
-X9962500Y48625000D03*
-G04 #@! TD*
-D15*
 G04 #@! TO.C,M1*
 X47237499Y98631662D03*
 X46362497Y99156662D03*
