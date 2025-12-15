@@ -1,0 +1,8 @@
+module can 0.1
+module wbo 0.5
+mega mcu100 0.3
+module motor driver 0.1
+module vr discrete 0.5
+module vr max9924 0.1
+module knock 0.2
+module power  12v and 5v 0.3

@@ -22,4 +22,5 @@
   (lib (name "hellen-one-knock-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/knock/0.2/knock.kicad_sym")(options "")(descr ""))
   (lib (name "hellen-one-wbo-0.5")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/wbo/0.5/wbo.kicad_sym")(options "")(descr ""))
   (lib (name "hellen-one-motor-driver-0.1")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/motor-driver/0.1/motor-driver.kicad_sym")(options "")(descr ""))
+  (lib (name "hellen-one-uaefi-0.2")(type "KiCad")(uri "${KIPRJMOD}/hellen-one/modules/uaefi/0.2/uaefi.kicad_sym")(options "")(descr ""))
 )

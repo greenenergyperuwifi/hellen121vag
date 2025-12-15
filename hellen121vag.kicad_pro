@@ -713,6 +713,72 @@
           "label": "Descripción",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGEREFERENCE",
+          "name": "PACKAGEREFERENCE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PUBLISHER",
+          "name": "PUBLISHER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER 1",
+          "name": "SUPPLIER 1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER 2",
+          "name": "SUPPLIER 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER 3",
+          "name": "SUPPLIER 3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER PART NUMBER 1",
+          "name": "SUPPLIER PART NUMBER 1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER PART NUMBER 2",
+          "name": "SUPPLIER PART NUMBER 2",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "SUPPLIER PART NUMBER 3",
+          "name": "SUPPLIER PART NUMBER 3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TYPE",
+          "name": "TYPE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "comentario",
+          "name": "comentario",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "FITTED",
+          "name": "FITTED",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -777,6 +843,26 @@
     [
       "45c1f041-3b7c-4036-abe9-e26621c05a73",
       "Root"
+    ],
+    [
+      "475a7c51-3994-4e4b-a9a2-65181187b6d0",
+      "EGT"
+    ],
+    [
+      "daaccf6d-1755-482f-b47d-8bf6bb55e029",
+      "LS HOT"
+    ],
+    [
+      "25e70622-4c27-4350-9ebe-0dc5c0c1dcd9",
+      "Ignition"
+    ],
+    [
+      "66c49144-754f-46ec-9852-0209b4223e70",
+      "Injector"
+    ],
+    [
+      "5b484501-f65a-484d-a841-b73263bff7a2",
+      "LS"
     ]
   ],
   "text_variables": {}
