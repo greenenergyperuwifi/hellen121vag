@@ -698,7 +698,7 @@
         },
         {
           "group_by": false,
-          "label": "LCSC",
+          "label": "LCSC Part #",
           "name": "LCSC",
           "show": true
         },
@@ -785,7 +785,7 @@
       "group_symbols": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "LCSC"
     },
     "connection_grid_size": 50.0,
     "drawing": {
