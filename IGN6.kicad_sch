@@ -1152,7 +1152,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ISL9V3040D3ST"
+		(property "Value" "AO3400A"
 			(at 137.3886 112.903 0)
 			(effects
 				(font
@@ -1161,7 +1161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 137.16 109.22 0)
 			(effects
 				(font
@@ -1170,7 +1170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
 			(at 142.24 111.76 0)
 			(effects
 				(font
@@ -1179,30 +1179,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
 			(at 142.24 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "LCSC" ""
-			(at 142.24 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MyComment" "DNP"
-			(at 143.764 117.856 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "comentario" ""
@@ -1685,7 +1668,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "4.7k"
 			(at 152.4 78.74 0)
 			(effects
 				(font
@@ -1693,7 +1676,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+		(property "Footprint" "hellen-one-common:R0603"
 			(at 153.67 82.55 0)
 			(effects
 				(font
@@ -1720,7 +1703,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" "C23162"
 			(at 157.48 78.74 0)
 			(effects
 				(font
@@ -1771,7 +1754,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "22"
 			(at 105.41 78.74 0)
 			(effects
 				(font
@@ -1779,7 +1762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+		(property "Footprint" "hellen-one-common:R0603"
 			(at 106.68 82.55 0)
 			(effects
 				(font
@@ -1806,7 +1789,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" "C23345"
 			(at 110.49 78.74 0)
 			(effects
 				(font
@@ -2344,7 +2327,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "0"
 			(at 152.4 111.76 0)
 			(effects
 				(font
@@ -2352,7 +2335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 151.13 107.95 0)
 			(effects
 				(font
@@ -2379,7 +2362,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23345"
+		(property "LCSC" "C25469"
 			(at 147.32 111.76 0)
 			(effects
 				(font
@@ -2529,7 +2512,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "22"
 			(at 105.41 106.68 0)
 			(effects
 				(font
@@ -2537,7 +2520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+		(property "Footprint" "hellen-one-common:R0603"
 			(at 106.68 110.49 0)
 			(effects
 				(font
@@ -2564,7 +2547,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" "C23345"
 			(at 110.49 106.68 0)
 			(effects
 				(font
@@ -2615,7 +2598,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "0"
 			(at 152.4 83.82 0)
 			(effects
 				(font
@@ -2623,7 +2606,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 151.13 80.01 0)
 			(effects
 				(font
@@ -2650,7 +2633,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23345"
+		(property "LCSC" "C25469"
 			(at 147.32 83.82 0)
 			(effects
 				(font
@@ -3167,7 +3150,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "0"
 			(at 105.41 83.82 0)
 			(effects
 				(font
@@ -3175,7 +3158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 104.14 80.01 0)
 			(effects
 				(font
@@ -3202,7 +3185,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23345"
+		(property "LCSC" "C25469"
 			(at 100.33 83.82 0)
 			(effects
 				(font
@@ -3339,7 +3322,7 @@
 				)
 			)
 		)
-		(property "Value" "0"
+		(property "Value" "4.7k"
 			(at 152.4 106.68 0)
 			(effects
 				(font
@@ -3347,7 +3330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+		(property "Footprint" "hellen-one-common:R0603"
 			(at 153.67 110.49 0)
 			(effects
 				(font
@@ -3374,7 +3357,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25469"
+		(property "LCSC" "C23162"
 			(at 157.48 106.68 0)
 			(effects
 				(font
@@ -3425,7 +3408,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "0"
 			(at 105.41 111.76 0)
 			(effects
 				(font
@@ -3433,7 +3416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
 			(at 104.14 107.95 0)
 			(effects
 				(font
@@ -3460,7 +3443,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23345"
+		(property "LCSC" "C25469"
 			(at 100.33 111.76 0)
 			(effects
 				(font

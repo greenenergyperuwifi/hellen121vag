@@ -610,7 +610,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "22"
 			(at 168.91 85.09 0)
 			(effects
 				(font
@@ -645,7 +645,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23162"
+		(property "LCSC" "C23345"
 			(at 173.99 85.09 0)
 			(effects
 				(font
@@ -796,7 +796,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23162"
+		(property "LCSC" "C21189"
 			(at 173.99 80.01 0)
 			(effects
 				(font
@@ -1169,7 +1169,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "22"
 			(at 173.99 90.17 0)
 			(effects
 				(font
@@ -1204,7 +1204,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23162"
+		(property "LCSC" "C23345"
 			(at 173.99 85.09 0)
 			(effects
 				(font

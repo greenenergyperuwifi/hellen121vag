@@ -500,6 +500,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 78.74) (xy 157.48 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b5d66ab-29f5-49d7-8aa7-9dd5e3a4e057")
+	)
+	(wire
+		(pts
 			(xy 111.76 78.74) (xy 118.11 78.74)
 		)
 		(stroke
@@ -517,16 +527,6 @@
 			(type default)
 		)
 		(uuid "a5a5d108-5797-442f-8435-ee99ad6d1b27")
-	)
-	(wire
-		(pts
-			(xy 146.05 78.74) (xy 157.48 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bff03599-359e-487b-a685-d64d083c6cfc")
 	)
 	(wire
 		(pts
@@ -849,7 +849,7 @@
 				)
 			)
 		)
-		(property "Value" "VNLD5160TR-E"
+		(property "Value" "MAX31855KASA"
 			(at 132.08 73.66 0)
 			(effects
 				(font
@@ -866,7 +866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://datasheets.maximintegrated.com/en/ds/MAX31855.pdf"
 			(at 146.05 78.74 0)
 			(effects
 				(font
@@ -884,7 +884,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C377942"
+		(property "LCSC" "C52028"
 			(at 134.62 81.28 0)
 			(effects
 				(font
