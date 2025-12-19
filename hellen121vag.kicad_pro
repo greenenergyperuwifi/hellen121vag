@@ -845,24 +845,24 @@
       "Root"
     ],
     [
-      "475a7c51-3994-4e4b-a9a2-65181187b6d0",
-      "EGT"
+      "37c68176-bc6d-4360-9788-c5c46985dc55",
+      "LS"
     ],
     [
-      "daaccf6d-1755-482f-b47d-8bf6bb55e029",
-      "LS HOT"
-    ],
-    [
-      "25e70622-4c27-4350-9ebe-0dc5c0c1dcd9",
+      "f08b5b09-fcb6-4f5b-8ff2-a721d01c34bf",
       "Ignition"
     ],
     [
-      "66c49144-754f-46ec-9852-0209b4223e70",
+      "5bf5a5f3-cb81-43b4-ad19-7826a949969c",
       "Injector"
     ],
     [
-      "5b484501-f65a-484d-a841-b73263bff7a2",
-      "LS"
+      "bdc55f5a-1abb-4701-b1a5-3e8a3596401f",
+      "LS HOT"
+    ],
+    [
+      "6cde32b6-05f2-499d-9aff-ad44aab97055",
+      "EGT"
     ]
   ],
   "text_variables": {}
